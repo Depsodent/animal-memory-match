@@ -1,0 +1,29 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "command": "C:\\Users\\AARYAN DESHPANDE\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin\\node.exe",
+      "args": [
+        "C:\\Users\\AARYAN~1\\AppData\\Local\\Temp\\animal-memory-match-npm\\node_modules\\npm\\bin\\npm-cli.js",
+        "run",
+        "dev"
+      ],
+      "options": {
+        "env": {
+          "PATH": "C:\\Users\\AARYAN DESHPANDE\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin;C:\\Users\\AARYAN DESHPANDE\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\powershell;C:\\Users\\AARYAN DESHPANDE\\.codex\\tmp\\arg0\\codex-arg0HPOaZl;C:\\Users\\AARYAN DESHPANDE\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\libheif\\libheif\\bin;C:\\Users\\AARYAN DESHPANDE\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\jxrlib\\jxrlib\\bin;C:\\Users\\AARYAN DESHPANDE\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\poppler\\Library\\bin;C:\\Users\\AARYAN DESHPANDE\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\bin\\override;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\java8path;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\ProgramData\\Oracle\\Java\\javapath;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;C:\\Program Files\\NVIDIA Corporation\\NVIDIA App\\NvDLISR;C:\\Program Files\\dotnet\\;C:\\Program Files\\Git\\cmd;C:\\MinGW\\bin;C:\\Users\\AARYAN DESHPANDE\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\;C:\\Users\\AARYAN DESHPANDE\\AppData\\Local\\Programs\\Python\\Python312\\;C:\\Users\\AARYAN DESHPANDE\\AppData\\Local\\Programs\\Python\\Launcher\\;C:\\Users\\AARYAN DESHPANDE\\.local\\bin;C:\\Users\\AARYAN DESHPANDE\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\powershell;C:\\Users\\AARYAN DESHPANDE\\AppData\\Local\\Microsoft\\WindowsApps;C:\\Users\\AARYAN DESHPANDE\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Users\\AARYAN DESHPANDE\\AppData\\Local\\Programs\\Antigravity IDE\\bin;C:\\Users\\AARYAN DESHPANDE\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\bin\\fallback;C:\\Users\\AARYAN DESHPANDE\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\node\\bin;C:\\Users\\AARYAN DESHPANDE\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\native\\git\\cmd;C:\\Users\\AARYAN DESHPANDE\\AppData\\Local\\OpenAI\\Codex\\bin\\441edec208d1681c;C:\\Users\\AARYAN DESHPANDE\\AppData\\Local\\OpenAI\\Codex\\bin\\9691020b546a15b2"
+        },
+        "cwd": "C:\\Users\\AARYAN DESHPANDE\\OneDrive\\Desktop\\Animal Memory Match"
+      },
+      "presentation": {
+        "reveal": "always",
+        "focus": true,
+        "panel": "dedicated",
+        "clear": false
+      },
+      "problemMatcher": [],
+      "isBackground": true,
+      "label": "Animal Memory Match: npm run dev",
+      "type": "process"
+    }
+  ]
+}
